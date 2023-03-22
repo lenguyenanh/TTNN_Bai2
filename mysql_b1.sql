@@ -489,3 +489,4 @@ BEGIN
     VALUES (OLD.MaNhaCC, OLD.TenNhaCC, OLD.DiaChi, NOW());
 END //
 DELIMITER ;
+ 
